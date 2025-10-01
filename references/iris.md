@@ -4,8 +4,8 @@
 
 | Nome da Variável | Tipo | Descrição | Unidades | Valores Faltantes |
 | :--- | :--- | :--- | :--- | :--- |
-| `sepal_length` | Número (float) | Comprimento da sépala da flor de íris | cm | Não |
-| `sepal_width` | Número (float) | Largura da sépala da flor de íris | cm | Não |
-| `petal_length` | Número (float) | Comprimento da pétala da flor de íris | cm | Não |
-| `petal_width` | Número (float) | Largura da pétala da flor de íris | cm | Não |
-| `class` | Categórico | Espécie da flor de íris (Iris Setosa, Iris Versicolour, Iris Virginica) | N/A | Não |
+| `sepal_length` | Número (float) | Comprimento da sépala da flor de íris | cm | 0 |
+| `sepal_width` | Número (float) | Largura da sépala da flor de íris | cm | 0 |
+| `petal_length` | Número (float) | Comprimento da pétala da flor de íris | cm | 0 |
+| `petal_width` | Número (float) | Largura da pétala da flor de íris | cm | 0 |
+| `class` | Categórico | Espécie da flor de íris (Iris Setosa, Iris Versicolour, Iris Virginica) | N/A | 0 |
